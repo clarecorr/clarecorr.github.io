@@ -1,0 +1,18 @@
+﻿body {
+    
+}
+
+/*header styling*/
+.img-circle {
+    width: 20%;
+    padding-bottom: 25px;
+}
+
+.text-vertical-center {
+    color: white;
+}
+
+.foot {
+    background-image: url('../img/pinktexture.jpg');
+    background-size: cover;
+}
