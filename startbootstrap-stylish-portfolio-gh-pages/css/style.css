@@ -1,11 +1,12 @@
 ﻿body {
-    
+    /*background-image: url('../img/whitespots.png');
+    background-size: cover;*/
 }
 
 /*header styling*/
 .img-circle {
-    width: 20%;
-    padding-bottom: 25px;
+    width: 15%;
+    
 }
 
 .text-vertical-center {
@@ -13,6 +14,8 @@
 }
 
 .foot {
-    background-image: url('../img/pinktexture.jpg');
-    background-size: cover;
+    /*background-image: url('../img/whitespots.png');
+    background-size: cover;*/
+    background-color: #FFE8E8;
+    padding: 0px;
 }

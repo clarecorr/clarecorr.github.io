@@ -154,8 +154,9 @@ hr.small {
     display: table;
     position: relative;
     width: 100%;
-    height: 400px;
-    background: url(../img/whiteonblack.jpeg) no-repeat center center scroll;
+    height: 250px;
+    /*background-color: #31384b;*/
+    background: url('../img/whiteonblack.jpeg') no-repeat center center scroll;
     /*-webkit-background-size: cover;
     -moz-background-size: cover;*/
     background-size: cover;
@@ -166,6 +167,8 @@ hr.small {
 
 .about {
     padding: 50px 0;
+    background: url('../img/whiteonblack.jpeg') no-repeat center center scroll;
+    /*background-color: #31384b;*/
 }
 
 /* Services */
@@ -185,7 +188,8 @@ hr.small {
     width: 100%;
     height: 400px;
     color: #fff;
-    background: url(../img/blackwhite.jpg) no-repeat center center scroll;
+    background-color: #FFE8E8;
+    /*background: url(../img/blackwhite.jpg) no-repeat center center scroll;*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
