@@ -19,3 +19,15 @@
     background-color: #FFE8E8;
     padding: 0px;
 }
+
+#project1 {
+    background-image: url('../img/reviewsite.PNG');
+    background-size: cover;
+    margin: 0 auto;
+    width: 50%;
+}
+
+p {
+    margin-top: -15px;
+    margin-bottom: 25px;
+}
